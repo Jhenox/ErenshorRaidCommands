@@ -1,0 +1,38 @@
+# Visual Studio / MSBuild output
+[Bb]in/
+[Oo]bj/
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+TestResults/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.VC.db
+*.VC.opendb
+*.cache
+*.log
+
+# NuGet / IDE caches
+packages/
+*.nupkg
+.idea/
+.vscode/
+
+# Local game / loader dependencies (do not redistribute)
+Assembly-CSharp.dll
+Lunaris.dll
+0Harmony.dll
+UnityEngine*.dll
+Erenshor_Data/
+
+# Local packaging / OS files
+*.zip
+*.7z
+*.rar
+.DS_Store
+Thumbs.db
